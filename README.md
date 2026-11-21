@@ -2,7 +2,7 @@
 
 # Hey, I'm Shashwat 👋
 
-**Software & AI Developer · BCA @ CHRIST (Deemed to be University), Delhi NCR**
+**Software & AI Developer · BCA @ CHRIST (Deemed to be University), Delhi NCR**   
 
 Building Retrieval-Augmented Generation (RAG) search pipelines, full-stack cloud booking platforms, static code analysis tools, and relational SQL systems.
 
@@ -12,7 +12,7 @@ Building Retrieval-Augmented Generation (RAG) search pipelines, full-stack cloud
 
 </div>
 
----
+---      
 
 ### About Me
 - 🎓 Pursuing a **Bachelor of Computer Applications (BCA)** at **CHRIST (Deemed to be University), Delhi NCR Campus** (2024–2027)
@@ -31,7 +31,7 @@ Building Retrieval-Augmented Generation (RAG) search pipelines, full-stack cloud
 | **[AST Sentinel](https://github.com/WooliestAnt8617)** | Zero-execution static code analysis and security auditing engine parsing Python source structures via Abstract Syntax Trees | `Python` · `AST` · `Static Analysis` |
 | **[VitalFlow](https://github.com/WooliestAnt8617)** | Relational blood donation & inventory allocation management system with 3NF MySQL schema and automated donor-recipient matching | `C#` · `.NET WinForms` · `MySQL` |
 
-> Also built: **FocusTrace** *(privacy-preserving Python developer activity profiler)*, **3D Unity Action Game** *(C# physics & enemy AI)*, and **ESP32 Posture Sensing System** *(embedded C++ & FSR sensors)*.
+> Also built: **3D Unity Action Game** *(C# physics & enemy AI)*, and **ESP32 based Real-time Seat Occupancy Monitoring System** *(embedded C++ & FSR sensors)*.
 
 ---
 
